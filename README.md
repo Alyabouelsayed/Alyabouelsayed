@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Aly 👋
 
-<!--
-**Alyabouelsayed/Alyabouelsayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IT Support | Systems Administration | Networking | Linux & Windows | IT Security
 
-Here are some ideas to get you started:
+I'm currently building practical IT skills through hands-on labs and projects, with a focus on troubleshooting, system administration, networking, operating systems, and IT security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+- IT Support & Technical Troubleshooting
+- Linux Administration
+- Windows Administration
+- Networking Fundamentals
+- System Administration
+- IT Security
+
+## Hands-on Labs
+
+- Linux Environment Setup with Ubuntu & VirtualBox
+- Linux System Administration
+- Networking Labs
+- Windows & Active Directory Labs
+- IT Security Labs
+
+## Goals
+
+Build strong practical IT skills and develop a professional portfolio of real-world labs and projects.
+
+---
+
+📍 United Kingdom 
