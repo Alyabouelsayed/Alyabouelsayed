@@ -1,30 +1,51 @@
 # Hi, I'm Aly 👋
 
-### IT Support | Systems Administration | Networking | Linux & Windows | IT Security
+## IT Support | Networking | Linux & Windows | Troubleshooting
 
-I'm currently building practical IT skills through hands-on labs and projects, with a focus on troubleshooting, system administration, networking, operating systems, and IT security.
+I'm currently building practical IT Support skills through hands-on labs, virtualization, and personal projects.
+
+My learning focuses on troubleshooting, operating systems, networking fundamentals, Linux, Windows, and IT security.
 
 ## Currently Learning
 
 - IT Support & Technical Troubleshooting
-- Linux Administration
-- Windows Administration
 - Networking Fundamentals
-- System Administration
-- IT Security
+- Linux & Ubuntu
+- Windows Administration
+- Operating Systems
+- System Administration Fundamentals
+- IT Security Fundamentals
+- Virtualization
 
-## Hands-on Labs
+## Hands-on Labs & Projects
 
 - Linux Environment Setup with Ubuntu & VirtualBox
-- Linux System Administration
+- Linux System Administration Practice
+- Windows 11 Virtual Machine Installation
+- Windows & Linux Virtualization Labs
 - Networking Labs
-- Windows & Active Directory Labs
-- IT Security Labs
+- IP Addressing & Network Configuration
+- Troubleshooting Practice
 
-## Goals
+## Certifications & Learning
 
-Build strong practical IT skills and develop a professional portfolio of real-world labs and projects.
+- Google IT Support Professional Certificate — Coursera
+- Technical Support Fundamentals
+- The Bits and Bytes of Computer Networking
+
+## Tools & Technologies
+
+- Windows
+- Linux / Ubuntu
+- VirtualBox
+- Git & GitHub
+- Command Line
+- Networking Tools
+
+## Goal
+
+I'm working toward an IT Support / Technical Support role and continuously developing my practical troubleshooting, networking, Linux, Windows, and system administration skills through hands-on practice.
 
 ---
 
-📍 United Kingdom 
+📌 I use this GitHub profile to document my learning journey, practical labs, and IT projects.
