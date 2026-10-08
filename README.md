@@ -1,51 +1,18 @@
-# Hi, I'm Aly 👋
-
-## IT Support | Networking | Linux & Windows | Troubleshooting
-
-I'm currently building practical IT Support skills through hands-on labs, virtualization, and personal projects.
-
-My learning focuses on troubleshooting, operating systems, networking fundamentals, Linux, Windows, and IT security.
-
-## Currently Learning
-
-- IT Support & Technical Troubleshooting
-- Networking Fundamentals
-- Linux & Ubuntu
-- Windows Administration
-- Operating Systems
-- System Administration Fundamentals
-- IT Security Fundamentals
-- Virtualization
-
-## Hands-on Labs & Projects
-
-- Linux Environment Setup with Ubuntu & VirtualBox
-- Linux System Administration Practice
-- Windows 11 Virtual Machine Installation
-- Windows & Linux Virtualization Labs
-- Networking Labs
-- IP Addressing & Network Configuration
-- Troubleshooting Practice
-
-## Certifications & Learning
-
-- Google IT Support Professional Certificate — Coursera
-- Technical Support Fundamentals
-- The Bits and Bytes of Computer Networking
-
-## Tools & Technologies
-
-- Windows
-- Linux / Ubuntu
-- VirtualBox
-- Git & GitHub
-- Command Line
-- Networking Tools
-
-## Goal
-
-I'm working toward an IT Support / Technical Support role and continuously developing my practical troubleshooting, networking, Linux, Windows, and system administration skills through hands-on practice.
-
----
-
-📌 I use this GitHub profile to document my learning journey, practical labs, and IT projects.
+Dedicated IT Specialist & Network
+Administrator with a strong foundation in IT infrastructure, system administration, and network fundamentals. Certified as a Google IT Support Professional and Cisco Certified Support Technician (CCST) Networking, with specialized training in cybersecurity basics via TryHackMe Pre-Security.
+Passionate about practical problem-solving and hands-on system configuration. I actively design, document, and deploy IT environments including Active Directory Domain Services (AD DS), Group Policy Objects (GPO), Linux systems, Windows 11 deployment, and virtualization troubleshooting (VMware / VirtualBox).
+Certifications & Track:
+• Google IT Support Professional Certificate
+• Cisco Certified Support Technician (CCST)
+Networking
+• Pre-Security Certificate - TryHackMe
+• CCNA (Candidate)
+Core Competencies:
+• System Administration: Windows Server 2022, Active Directory, GPO, RBAC, Windows 11 Pro, Linux (Ubuntu/Debian).
+• Networking & Security: Network
+Fundamentals, Subnetting, Routing/Switching,
+Firewalls & Cybersecurity Essentials.
+• Troubleshooting & Virtualization: Partition
+Management, System Recovery, VMware
+Workstation, VirtualBox.
+¡ Open to opportunities as an IT Support Specialist, System Administrator, Helpdesk Engineer, or Network Support Associate.
