@@ -32,5 +32,7 @@ Firewalls & Cybersecurity Essentials.
 Management, System Recovery, VMware
 Workstation, VirtualBox.
 
-¡ Open to opportunities as an IT Support Specialist, System Administrator, Helpdesk Engineer, or Network Support Associate.
+ Open to opportunities as an IT Support Specialist, 
+ System Administrator, 
+ Helpdesk Engineer, or Network Support Associate.
 
